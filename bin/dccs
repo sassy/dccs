@@ -3,4 +3,3 @@
 "use strict";
 
 var module = require('../main.js');
-module.exec();
