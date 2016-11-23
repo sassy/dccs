@@ -1,8 +1,8 @@
 'use strict';
 
 const url = require('url');
-const opener = require("opener");
-const ncp = require("copy-paste");
+const opener = require('opener');
+const ncp = require('copy-paste');
 
 const now = new Date();
 const year = String(now.getFullYear());
@@ -19,7 +19,6 @@ const requestUrl = url.format({
   }
 });
 
-ncp
 opener(requestUrl);
 ncp.copy(requestUrl, function () {
   console.log(requestUrl);
