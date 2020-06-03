@@ -1,6 +1,6 @@
 {
   "name": "dccs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "bin": {
     "dccs": "bin/dccs"
@@ -17,6 +17,6 @@
     "opener": "^1.4.1"
   },
   "devDependencies": {
-    "eslint": "^3.10.2"
+    "eslint": "^7.1.0"
   }
 }
