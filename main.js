@@ -2,7 +2,7 @@
 
 const url = require('url');
 const opener = require('opener');
-const ncp = require('copy-paste');
+const ncp = require('copy-paste-win32fix');
 
 const now = new Date();
 const year = String(now.getFullYear());
