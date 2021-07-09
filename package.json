@@ -14,7 +14,7 @@
   "license": "MIT",
   "dependencies": {
     "copy-paste-win32fix": "^1.4.0",
-    "opener": "^1.4.1"
+    "opener": "^1.5.2"
   },
   "devDependencies": {
     "eslint": "7.8.1"
