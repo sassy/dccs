@@ -17,6 +17,6 @@
     "opener": "^1.5.2"
   },
   "devDependencies": {
-    "eslint": "7.32.0"
+    "eslint": "9.13.0"
   }
 }
